@@ -1,9 +1,17 @@
 target/
 *.class
+*.log
+*.tmp
 node_modules/
 dist/
 .vite/
 coverage/
+out/
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
 .DS_Store
 patch/*
 !patch/.gitkeep
